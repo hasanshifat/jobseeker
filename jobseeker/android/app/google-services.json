@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176378645967",
+    "firebase_url": "https://jobseeker-30b0d.firebaseio.com",
+    "project_id": "jobseeker-30b0d",
+    "storage_bucket": "jobseeker-30b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176378645967:android:2845082613bf2336",
+        "android_client_info": {
+          "package_name": "com.example.jobseeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176378645967-3hnngf94v8jbtd2j1tttoc8bktjmjjnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1UaFjSbBLhm2Rvm1OvunjsAPqv0gtjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176378645967-3hnngf94v8jbtd2j1tttoc8bktjmjjnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
